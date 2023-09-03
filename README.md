@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a side project.<br>👯‍♀️ I'm looking to collaborate on web development projects .<br>🤝 I'm looking for help with anything related to software development.<br>🌱 I'm currently learning advanced javaScript and React .<br>💬 Ask me about personal growth and self-taught journey .<br>⚡️ 
+🔭Hello, and welcome to my GitHub profile! My name is Abdul Khalid, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications.
 
 
 ## 🌐 Socials:
