@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Hello, and welcome to my GitHub profile! My name is Abdul Khalid, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications.
+🔭Hello, and welcome to my GitHub profile! My name is Gloria, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications.
 
 
 ## 🌐 Socials:
