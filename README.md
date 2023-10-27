@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications.
+I am a self-taught frontend developer with a passion for creating engaging and user-friendly web applications.
 
 
 ## 🌐 Socials:
