@@ -2,8 +2,8 @@
 
 I'm a **Frontend Engineer**, **Tech Explorer**, and **Builder of Digital Experiences** 💻✨ 
 
-I’m passionate about using code to bring ideas to life—especially through beautiful, functional, and interactive interfaces. Web development has been my gateway into solving real-world problems creatively and with impact 🚀
-I believe in **continuous learning**, **building in public**, and using every project as an opportunity to grow. Whether it’s crafting reusable components, optimizing performance, or exploring UI/UX best practices—I’m all in.
+I’m passionate about using code to bring ideas to life, especially through beautiful, functional, and interactive interfaces. Web development has been my gateway into solving real-world problems creatively and with impact 🚀
+I believe in **continuous learning**, **building in public**, and using every project as an opportunity to grow. Whether it’s crafting reusable components, optimizing performance, or exploring UI/UX best practices. I’m all in.
 
 
 
