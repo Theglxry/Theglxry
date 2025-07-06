@@ -17,8 +17,8 @@ I believe in **continuous learning**, **building in public**, and using every pr
 
 ## 📫 Let’s Connect
 
-- 🌍 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/theglxry) 
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gloria-aliu-aa43871aa/)
+-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/theglxry) 
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gloria-aliu-aa43871aa/)
 - 🗣️ Open to chats about **Frontend Development**, **Tech Careers**, and **Creative Projects**.
 
  
